@@ -4,17 +4,17 @@ html {
 
 body {
     margin: 0;
-    background-color: #a9ffff;
+    background-color: hsla(180, 23%, 82%, 0.957);
 }
 
 header {
-    background-color: #486c8b;
+    background-color: hsla(180, 17%, 86%, 0.957);
     color: rgb(163, 121, 121);
     padding: 3rem 2rem;
 }
 
 header h1 {
-    font-size: 4rem;
+    font-size: 5rem;
     text-align: center;
 }
 
