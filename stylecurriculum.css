@@ -4,12 +4,12 @@ html {
 
 body {
     margin: 0;
-    background-color: hsla(180, 23%, 82%, 0.957);
+    background-color: hsla(180, 39%, 77%, 0.957);
 }
 
 header {
-    background-color: hsla(180, 17%, 86%, 0.957);
-    color: rgb(163, 121, 121);
+    background-color: hsla(190, 60%, 74%, 0.957);
+    color: rgb(31, 221, 117);
     padding: 3rem 2rem;
 }
 
@@ -25,7 +25,7 @@ header h1 {
 
 section article {
     transition: all 0.4s ease;
-    background-color: #b76b6b;
+    background-color: hsla(190, 60%, 74%, 0.957);
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
@@ -43,7 +43,7 @@ section article h2, section article p {
 footer {
     background-color: #324b41;
     padding: 3rem;
-    color: #7fce83;
+    color: #ff00a2;
 }
 
 footer section {
@@ -55,7 +55,7 @@ footer p {
 }
 
 footer a {
-    color: #e3bc53;
+    color: #ecb727;
     text-decoration: none;
 }
 
