@@ -25,7 +25,7 @@ header h1 {
 
 section article {
     transition: all 0.4s ease;
-    background-color: #fff;
+    background-color: #b76b6b;
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
@@ -33,7 +33,7 @@ section article {
 }
 
 section article:hover {
-    box-shadow: 0 0.1rem 0.4rem rgba(0,0,0,0.3)
+    box-shadow: 1 1.1rem 0.4rem rgb(14, 100, 73)
 }
 
 section article h2, section article p {
@@ -41,9 +41,9 @@ section article h2, section article p {
 }
 
 footer {
-    background-color: #222;
+    background-color: #324b41;
     padding: 3rem;
-    color: #fff;
+    color: #7fce83;
 }
 
 footer section {
@@ -55,11 +55,11 @@ footer p {
 }
 
 footer a {
-    color: #fff;
+    color: #e3bc53;
     text-decoration: none;
 }
 
 footer a:hover {
     transition: 0.3s ease;
-    color: rgb(43, 155, 118);
+    color: rgb(22, 191, 135);
 }
